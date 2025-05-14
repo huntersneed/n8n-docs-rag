@@ -1,0 +1,9 @@
+/embeddings
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+.DS_Store
